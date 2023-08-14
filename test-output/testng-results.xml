@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-14T00:44:19 EDT" name="Suite" finished-at="2023-08-14T00:45:21 EDT" duration-ms="62358">
+    <groups>
+    </groups>
+    <test started-at="2023-08-14T00:44:19 EDT" name="Test" finished-at="2023-08-14T00:45:21 EDT" duration-ms="62358">
+      <class name="tests.TranslinkTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:44:19 EDT" name="beforeMethod" finished-at="2023-08-14T00:44:23 EDT" duration-ms="4524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="firstScenarioTest()[pri:1, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:44:23 EDT" name="firstScenarioTest" finished-at="2023-08-14T00:44:48 EDT" duration-ms="24452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstScenarioTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:44:48 EDT" name="afterMethod" finished-at="2023-08-14T00:44:49 EDT" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:44:49 EDT" name="beforeMethod" finished-at="2023-08-14T00:44:51 EDT" duration-ms="2679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="secondscenarioTest()[pri:2, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:44:51 EDT" name="secondscenarioTest" finished-at="2023-08-14T00:45:20 EDT" duration-ms="28757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondscenarioTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TranslinkTest@37d4349f]" started-at="2023-08-14T00:45:20 EDT" name="afterMethod" finished-at="2023-08-14T00:45:21 EDT" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.TranslinkTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
